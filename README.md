@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://github.com/lahanhelith/faq-accordion-frontend-mentor)
+- Live Site URL: [Live Site URL](https://earnest-parfait-fe1691.netlify.app/)
 
 ## My process
 
@@ -54,3 +54,4 @@ The concept of using variable fonts is still quite confusing for me and I plan o
 
 ## Acknowledgments
 
+I got inspiration from [@lucasdaher](https://www.frontendmentor.io/profile/lucasdaher) whose solution for the challenge taught me the way to create the css for the two backgrounds.
